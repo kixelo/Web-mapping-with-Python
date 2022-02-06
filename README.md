@@ -1,4 +1,5 @@
 # Web-mapping-with-Python
+Web app shows Slovak cities map.
 
 ## Desktop application that I used for coding part
 ```
