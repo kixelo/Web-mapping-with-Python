@@ -12,8 +12,8 @@ Atom
 ```
 
 ## Images
-<img src="images/web_mapping.png" width="150" />
-<img src="images/web_mapping2.png" width="150" />
+<img src="images/web_mapping.png" />
+<img src="images/web_mapping2.png" />
 
 
 ## Data from:
