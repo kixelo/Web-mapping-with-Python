@@ -11,6 +11,11 @@ Atom
 2. pandas
 ```
 
+## Images
+<img src="Web-mapping-with-Python/images/web_mapping.png" width="150px" />
+<img src="Web-mapping-with-Python/images/web_mapping2.png" width="150px" />
+
+
 ## Data from:
 ```
 [wikipedia](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovakia),
