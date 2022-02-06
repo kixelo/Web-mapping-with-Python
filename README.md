@@ -12,8 +12,8 @@ Atom
 ```
 
 ## Images
-<img src="Web-mapping-with-Python/images/web_mapping.png" width="150px" />
-<img src="Web-mapping-with-Python/images/web_mapping2.png" width="150px" />
+<img src="Web-mapping-with-Python/images/web_mapping.png" width="150" />
+<img src="Web-mapping-with-Python/images/web_mapping2.png" width="150" />
 
 
 ## Data from:
