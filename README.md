@@ -17,7 +17,7 @@ Atom
 <img src="images/web_mapping2.png" />
 
 
-## Data from:
+## Data source:
 ```
 [wikipedia](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovakia),
 so I used the **Wikipedia** data for creating .txt file, with columns: "Name", "Population 2019", "Latitude" and "Longitude" and use the data for the project.
